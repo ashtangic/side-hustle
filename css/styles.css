@@ -1,0 +1,108 @@
+
+
+.top-container {
+  background-color: black;
+  color: white;
+  font-family: 'Tangerine', cursive;
+}
+
+.material {
+  width: 450px;
+  height: 200px;
+  text-align: center;
+  background-color: black;
+  position: absolute;
+  right: 200px;
+  bottom: 300px;
+  font-size: 2.3rem;
+}
+
+.middle-container {
+  background-color: #69779B;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Cookie', cursive;
+  width: 100%;
+  padding-bottom: 15px;
+  color: #ffffff;
+}
+
+.lower-container {
+  position: relative;
+  text-align: center;
+}
+
+.text-align {
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  font-family: monospace, serif;
+  font-size: 30px;
+}
+.lower-heading{
+  width: 35%;
+}
+
+.earth {
+  margin: 15px auto 15px auto;
+}
+
+.second-lower-conatiner {
+  width: 70%;
+  margin: auto;
+}
+
+.face {
+margin-left: 270px;
+}
+
+.last-lines {
+  text-align: center;
+  font-family: 'Sigmar One', cursive;
+  font-size: 30px;
+}
+
+.one {
+  margin-bottom: 0;
+}
+
+.two {
+  margin-top: 0;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #1b6ba8;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  color: white;
+  background: #0a97b0;
+  text-decoration: none;
+}
+
+.last-block {
+  background-color: #acdbdf;
+  text-align-last: center;
+  padding: 20px 0 20px;
+}
+
+.footer-link {
+  margin: 10px 20px;
+}
